@@ -1,5 +1,5 @@
-mysql-connector-python==8.0.28  # Or a compatible version
-streamlit==latest  # Specify the streamlit version if necessary
-scikit-learn==latest
-numpy==latest
-pandas==latest
+streamlit==1.16.0
+mysql-connector-python==8.0.28  # Or pymysql==1.0.2 as alternative
+scikit-learn==1.1.1
+numpy==1.21.0
+pandas==1.3.3
