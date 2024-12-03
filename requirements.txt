@@ -1,0 +1,5 @@
+streamlit==1.17.0
+mysql-connector==8.0.28
+pandas==1.4.2
+scikit-learn==1.0.2
+numpy==1.21.5
